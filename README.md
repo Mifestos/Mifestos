@@ -1,1 +1,4 @@
-# My_PetProjects
+| Тема проекта / Год | Название проекта | Описание | Стек и методы |
+|---|---|---|---|
+| Кредитный скоринг / 2026 | [AlfaBattle2.0](https://github.com/Mifestos/AlfaBattle2.0) | Предсказание дефолта клиента | lightgbm, catboost |
+|
