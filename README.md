@@ -11,3 +11,4 @@
 |---|---|---|---|
 | Кредитный скоринг / 2026 | [AlfaBattle2.0](https://github.com/Mifestos/AlfaBattle2.0) | Предсказание дефолта клиента | Python, Pandas, PyArrow, LightGBM, Scikit-learn, Jupyter Notebook |
 | Машинное обучение / 2026 | [ML_Seminars](https://github.com/Mifestos/ML_Seminars) | Практические задания по курсу ML (семинары Воронцова) | ML Base |
+| LLM & AI-агенты / 2026 | [GigaChatAgent](https://github.com/Mifestos/GigaChatAgent) | AI-агент для анализа данных. Безопасный код (E2B), самокоррекция (LangGraph), лимиты токенов, оценка качества (Pass@1). | Python, LangGraph, GigaChat API, E2B Sandbox, Pandas, Typer, Rich |
