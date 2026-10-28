@@ -9,6 +9,7 @@
 
 | Тема проекта / Год | Название проекта | Описание | Стек и методы |
 |---|---|---|---|
+| Full-stack ML / 2026 | [CineRec](https://github.com/Mifestos/CineRec) | Рекомендательная система (Two-Stage: ALS + LTR). REST API (FastAPI), UI (Next.js), Nginx, PostgreSQL, Redis. NLP (RuBERT) для анализа отзывов. Оценка качества (NDCG), CI/CD. | Python, FastAPI, Next.js, TypeScript, PostgreSQL, Redis, ALS, LightGBM, PyTorch, RuBERT, Docker, Nginx |
 | Кредитный скоринг / 2026 | [AlfaBattle2.0](https://github.com/Mifestos/AlfaBattle2.0) | Предсказание дефолта клиента | Python, Pandas, PyArrow, LightGBM, Scikit-learn, Jupyter Notebook |
 | Машинное обучение / 2026 | [ML_Seminars](https://github.com/Mifestos/ML_Seminars) | Практические задания по курсу ML (семинары Воронцова) | ML Base |
 | LLM & AI-агенты / 2026 | [GigaChatAgent](https://github.com/Mifestos/GigaChatAgent) | AI-агент для анализа данных. Безопасный код (E2B), самокоррекция (LangGraph), лимиты токенов, оценка качества (Pass@1). | Python, LangGraph, GigaChat API, E2B Sandbox, Pandas, Typer, Rich |
