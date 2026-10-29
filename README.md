@@ -9,6 +9,7 @@
 
 | Тема проекта / Год | Название проекта | Описание | Стек и методы |
 |---|---|---|---|
+| Data Engineering / 2026 | [tinvest-flow](https://github.com/Mifestos/tinvest-flow) | Гибридная Data Platform (Lambda/Kappa). Сквозные пайплайны: сбор из T-Invest API (REST/WebSocket), Medallion Architecture (Bronze -> Silver -> Gold), построение витрин в MPP-СУБД. Реализован паттерн JDBC UPSERT в Spark Streaming. Настроен полный CI/CD и строгая типизация. | Python, Apache Airflow, Apache Kafka, Apache Spark (Batch & Streaming), PostgreSQL, ClickHouse, MinIO (S3), Docker, GitHub Actions, Pydantic, Mypy, Ruff |
 | Full-stack ML / 2026 | [CineRec](https://github.com/Mifestos/CineRec) | Рекомендательная система (Two-Stage: ALS + LTR). REST API (FastAPI), UI (Next.js), Nginx, PostgreSQL, Redis. NLP (RuBERT) для анализа отзывов. Оценка качества (NDCG), CI/CD. | Python, FastAPI, Next.js, TypeScript, PostgreSQL, Redis, ALS, LightGBM, PyTorch, RuBERT, Docker, Nginx |
 | Кредитный скоринг / 2026 | [AlfaBattle2.0](https://github.com/Mifestos/AlfaBattle2.0) | Предсказание дефолта клиента | Python, Pandas, PyArrow, LightGBM, Scikit-learn, Jupyter Notebook |
 | Машинное обучение / 2026 | [ML_Seminars](https://github.com/Mifestos/ML_Seminars) | Практические задания по курсу ML (семинары Воронцова) | ML Base |
