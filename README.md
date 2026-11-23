@@ -8,4 +8,5 @@
 
 
 | Тема проекта / Год | Название проекта | Описание | Стек и методы |
-|---|---|---|---|
+|---|---|---|---|   
+| Кредитный скоринг / 2026 | [AlfaBattle 2.0](https://github.com/Mifestos/AlfaBattle2.0) | End-to-end пайплайн прогнозирования дефолта по транзакционной истории (~1.46M клиентов). Feature Engineering (203 признака, поведенческие окна, TF-IDF+SVD), байесовский тюнинг GBDT, мультимодальные нейросети (BiGRU + 1D-CNN) и Weighted Logit Ensemble (**0.7945 ROC-AUC**). | `Python`, `PyTorch (AMP)`, `LightGBM`, `XGBoost`, `CatBoost`, `Optuna`, `Scikit-learn`, `Parquet` |
